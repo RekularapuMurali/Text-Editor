@@ -1,5 +1,4 @@
-# Text-Editor
-a simple project on Text Editor using python language
+# Text-Editor with Advanced feature
 Text Editor with Undo/Redo Feature 
 Objective 
 The objective of this project is to develop a simple text editor that supports basic text editing 
